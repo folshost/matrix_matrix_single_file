@@ -1,0 +1,3 @@
+1. Try running it on Marvin, figure out if the number where it breaks is different.
+2. Nail down what the magic seg-fault number is.
+3. 
